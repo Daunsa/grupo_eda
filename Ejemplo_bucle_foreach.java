@@ -5,5 +5,5 @@ public class Ejemplo_bucle_foreach {
             for (String i : animales) {
                 System.out.println(i);
             }
-        }
+    }
 }
