@@ -81,12 +81,19 @@
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
 <h2>- Ejercicio individual Daniel Edward Tapia Saenz</h2><br>
 - Commits realizados<br>	
-	<img src="https://i.ibb.co/N1F1zhQ/d3234947-5e04-462c-ba2c-099e0d244861.jpg" alt="">
+	<img src="https://i.ibb.co/2dpvhQc/Captura-de-pantalla-2022-05-06-102545.png" alt="">
 <br><br>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
-<h2>- 
+- ¿Por qué Git y GitHub son herramientas importantes para el curso?<br>
+Por que estas nos permiten llevar un control de versiones de nuestras actividades por lo cual se puede seguir el camino que recorrimos para llegar a un determinado resultado, y gracias a git hub esto se puede controlar mediante un repositorio comun.<br>
+- ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?<br>
+<br>
+- ¿Qué son los entándares de codificación?<br>
+<br>
 <br>
 <br><br></td></tr>
 <tr><td>III. CONCLUSIONES<br>
+-Git nos ayuda a realizar un control del flujo de datos que se guardan asi como a registrarlos de tal forma que se puede acceder a estados anteriores, por lo que esto hace posible que se pueda trabajar de forma mucho mas organizada.<br>
+-Git hub como herramienta de trabajo grupal es idonea ya que hace posible que se trabaje sobre un mismom directorio de forma remota y sin que ningun integrante interfiera con otro.
 <br>  
