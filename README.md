@@ -56,6 +56,7 @@
 					<ul>
 					<li><a href="https://github.com/Daunsa">Daniel Edwad Tapia Saenz</a></li>
 					<li><a href="https://github.com/rgarciava">Ronald Pablo Garcia Valdivia</a><li>
+					<li><a href="https://github.com/timysuclle3">Michael Benjamin Suclle Suca</a><li>
 					</ul>
 				</td>
 				<td colspan="">NOTA:</td>
@@ -88,6 +89,10 @@
 - Commits realizados<br>	
 	<img src="https://i.ibb.co/YZbqsxD/EDA-trabajo1.jpg" alt="">
 <br><br>
+<h2>- Ejercicio individual Michael Benjamin Suclle Suca</h2><br>
+- Commits realizados<br>	
+	<img src="https://i.ibb.co/R09VH6t/Captura-web-6-5-2022-193324-github-com.jpg" alt="">
+<br><br>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
 - ¿Por qué Git y GitHub son herramientas importantes para el curso?<br>
@@ -97,11 +102,13 @@ Pues la étca que podría mencionar es que no se debería de usar un código cop
 <br>
 - ¿Qué son los entándares de codificación?<br>
 <br>
+	Es que podemos llamar paradigma a la hora de hacer un codigo, por asi decirlo son las normas y/o reglas establecidas por convención para que nuestro codigo sea legible, consistente y mantenible para otras personas. Esto mejorara la lectura y distribución del software. Dentro de estos estandares podemos encontrar la extension de archivos, nombres comunes en estos, la organización, las fuentes, la sintaxis, entre otras que se pueden identificar al hacer un codigo de la manera correcta.
 <br>
 <br><br></td></tr>
 <tr><td>III. CONCLUSIONES<br>
 -Git nos ayuda a realizar un control del flujo de datos que se guardan asi como a registrarlos de tal forma que se puede acceder a estados anteriores, por lo que esto hace posible que se pueda trabajar de forma mucho mas organizada.<br>
 -Git hub como herramienta de trabajo grupal es idonea ya que hace posible que se trabaje sobre un mismom directorio de forma remota y sin que ningun integrante interfiera con otro.
--Github nos ayuda a evitar el plagio en caso haya, al registrar cada paso que hicimos.
--Evita los malos hábitos al haber un monitoreo, lo que nos puede servir para mantener nuestro nivel de avance o aumentar.
+-Github nos ayuda a evitar el plagio en caso haya, al registrar cada paso que hicimos.  
+-Evita los malos hábitos al haber un monitoreo, lo que nos puede servir para mantener nuestro nivel de avance o aumentar.  
+-Algo rescatable de esta asignacion es de que git hub es una poderosa herramienta; más tiene que ser usada con el debido cuidado y etica debida, y en adición a esto vale mencionar que se tiene que poner en practica la estendarizacion de codigo, ya que asi el trabajo en equipo aqui en git hub es mucho mas productivo.
 <br>  
