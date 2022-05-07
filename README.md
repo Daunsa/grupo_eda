@@ -105,8 +105,8 @@ Es que podemos llamar paradigma a la hora de hacer un codigo, por asi decirlo so
 <br><br></td></tr>
 <tr><td>III. CONCLUSIONES<br>
 -Git nos ayuda a realizar un control del flujo de datos que se guardan asi como a registrarlos de tal forma que se puede acceder a estados anteriores, por lo que esto hace posible que se pueda trabajar de forma mucho mas organizada.<br>
--Git hub como herramienta de trabajo grupal es idonea ya que hace posible que se trabaje sobre un mismom directorio de forma remota y sin que ningun integrante interfiera con otro.
--Github nos ayuda a evitar el plagio en caso haya, al registrar cada paso que hicimos.  
--Evita los malos hábitos al haber un monitoreo, lo que nos puede servir para mantener nuestro nivel de avance o aumentar.  
+-Git hub como herramienta de trabajo grupal es idonea ya que hace posible que se trabaje sobre un mismom directorio de forma remota y sin que ningun integrante interfiera con otro.<br>
+-Github nos ayuda a evitar el plagio en caso haya, al registrar cada paso que hicimos.<br>
+-Evita los malos hábitos al haber un monitoreo, lo que nos puede servir para mantener nuestro nivel de avance o aumentar.<br>
 -Algo rescatable de esta asignacion es de que git hub es una poderosa herramienta; más tiene que ser usada con el debido cuidado y etica debida, y en adición a esto vale mencionar que se tiene que poner en practica la estendarizacion de codigo, ya que asi el trabajo en equipo aqui en git hub es mucho mas productivo.
-<br>  
+<br>
