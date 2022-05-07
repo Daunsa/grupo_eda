@@ -55,6 +55,7 @@
 				<td colspan="3">INTEGRANTES:
 					<ul>
 					<li><a href="https://github.com/Daunsa">Daniel Edwad Tapia Saenz</a></li>
+					<li><a href="https://github.com/rgarciava">Ronald Pablo Garcia Valdivia</a><li>
 					</ul>
 				</td>
 				<td colspan="">NOTA:</td>
@@ -83,11 +84,16 @@
 - Commits realizados<br>	
 	<img src="https://i.ibb.co/2dpvhQc/Captura-de-pantalla-2022-05-06-102545.png" alt="">
 <br><br>
+<h2>- Ejercicio individual Ronald Pablo Garcia Valdivia</h2><br>
+- Commits realizados<br>	
+	<img src="https://i.ibb.co/YZbqsxD/EDA-trabajo1.jpg" alt="">
+<br><br>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
 - ¿Por qué Git y GitHub son herramientas importantes para el curso?<br>
 Por que estas nos permiten llevar un control de versiones de nuestras actividades por lo cual se puede seguir el camino que recorrimos para llegar a un determinado resultado, y gracias a git hub esto se puede controlar mediante un repositorio comun.<br>
 - ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?<br>
+Pues la étca que podría mencionar es que no se debería de usar un código copiado ya se daría cuenta, y en caso de que algún miembro del repositorio subió algo personal por accidente, los demás miembros deberían tener la cordialidad de no guardar la información, deberían promocionarse la honestidad y el respeto.
 <br>
 - ¿Qué son los entándares de codificación?<br>
 <br>
@@ -96,4 +102,6 @@ Por que estas nos permiten llevar un control de versiones de nuestras actividade
 <tr><td>III. CONCLUSIONES<br>
 -Git nos ayuda a realizar un control del flujo de datos que se guardan asi como a registrarlos de tal forma que se puede acceder a estados anteriores, por lo que esto hace posible que se pueda trabajar de forma mucho mas organizada.<br>
 -Git hub como herramienta de trabajo grupal es idonea ya que hace posible que se trabaje sobre un mismom directorio de forma remota y sin que ningun integrante interfiera con otro.
+-Github nos ayuda a evitar el plagio en caso haya, al registrar cada paso que hicimos.
+-Evita los malos hábitos al haber un monitoreo, lo que nos puede servir para mantener nuestro nivel de avance o aumentar.
 <br>  
