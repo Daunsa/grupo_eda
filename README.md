@@ -55,8 +55,8 @@
 				<td colspan="3">INTEGRANTES:
 					<ul>
 					<li><a href="https://github.com/Daunsa">Daniel Edwad Tapia Saenz</a></li>
-					<li><a href="https://github.com/rgarciava">Ronald Pablo Garcia Valdivia</a><li>
-					<li><a href="https://github.com/timysuclle3">Michael Benjamin Suclle Suca</a><li>
+					<li><a href="https://github.com/rgarciava">Ronald Pablo Garcia Valdivia</a></li>
+					<li><a href="https://github.com/timysuclle3">Michael Benjamin Suclle Suca</a></li>
 					</ul>
 				</td>
 				<td colspan="">NOTA:</td>
@@ -101,9 +101,7 @@ Por que estas nos permiten llevar un control de versiones de nuestras actividade
 Pues la étca que podría mencionar es que no se debería de usar un código copiado ya se daría cuenta, y en caso de que algún miembro del repositorio subió algo personal por accidente, los demás miembros deberían tener la cordialidad de no guardar la información, deberían promocionarse la honestidad y el respeto.
 <br>
 - ¿Qué son los entándares de codificación?<br>
-<br>
-	Es que podemos llamar paradigma a la hora de hacer un codigo, por asi decirlo son las normas y/o reglas establecidas por convención para que nuestro codigo sea legible, consistente y mantenible para otras personas. Esto mejorara la lectura y distribución del software. Dentro de estos estandares podemos encontrar la extension de archivos, nombres comunes en estos, la organización, las fuentes, la sintaxis, entre otras que se pueden identificar al hacer un codigo de la manera correcta.
-<br>
+Es que podemos llamar paradigma a la hora de hacer un codigo, por asi decirlo son las normas y/o reglas establecidas por convención para que nuestro codigo sea legible, consistente y mantenible para otras personas. Esto mejorara la lectura y distribución del software. Dentro de estos estandares podemos encontrar la extension de archivos, nombres comunes en estos, la organización, las fuentes, la sintaxis, entre otras que se pueden identificar al hacer un codigo de la manera correcta.
 <br><br></td></tr>
 <tr><td>III. CONCLUSIONES<br>
 -Git nos ayuda a realizar un control del flujo de datos que se guardan asi como a registrarlos de tal forma que se puede acceder a estados anteriores, por lo que esto hace posible que se pueda trabajar de forma mucho mas organizada.<br>
